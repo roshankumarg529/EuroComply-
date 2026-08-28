@@ -9,7 +9,6 @@
 
 **Know exactly where your company stands with EU law — in minutes, not months.**
 
-**[Try EuroComply →](https://eurocomply.yellowdune-c0eb0c09.westeurope.azurecontainerapps.io)**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-EuroComply-4ECDC4?style=for-the-badge)](https://eurocomply.yellowdune-c0eb0c09.westeurope.azurecontainerapps.io)
 [![Regulations](https://img.shields.io/badge/Regulations-GDPR_%7C_AI_Act_%7C_NIS2_%7C_DORA_%7C_CSRD-1B2A4A?style=for-the-badge)](#)
